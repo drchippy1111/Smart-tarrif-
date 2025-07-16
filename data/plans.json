@@ -1,0 +1,4 @@
+# [
+#   {"plan_id": "basic", "name": "Basic Plan", "data_limit": 10, "price": 100},
+#   {"plan_id": "premium", "name": "Premium Plan", "data_limit": 50, "price": 300}
+# ]
