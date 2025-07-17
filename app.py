@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/react"
 from modules import data_collector, analyzer, optimizer, model, monitor
 from utils.helpers import print_analysis
 
